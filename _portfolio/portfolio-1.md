@@ -1,7 +1,50 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "False Alerts Related to GPS Electronic Monitoring in the Cook County Sheriff’s Office"
+excerpt: "A spatial data science project examining the effectiveness of Cook County’s remote surveillance program. I performed extensive data management and integrated multiple data sources into a unified, geocoded dataset, laying the foundation for accurate spatial analysis and correlation testing."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+# False Alerts in Cook County’s Electronic Monitoring System
+
+**Date:** June 2025  
+**Tools Used:** Python | Pandas | GeoPandas
+
+## Overview
+This spatial data science project examined whether false alerts in Cook County’s electronic monitoring program are related to Chicago’s dense built environment. The core of the work centered on extensive data management, including cleaning large structural datasets and resolving missing ZIP codes through spatial joins. My work integrated multiple sources into a unified geocoded dataset, which laid the groundwork for accurate spatial analysis and correlation testing.
+
+## Skills Demonstrated
+**Geospatial Data Processing:** Utilized Python to clean large datasets, including fixing 10,000+ instances with missing ZIP codes using spatial joins.
+
+**Large‑Scale Data Integration:** Combined seperate building structure data, false‑alert data, and shapefiles into a unified ZIP‑code‑level geocoded dataset.
+
+**Spatial and Statistical Analysis:** Applied mapping tools and correlation methods to explore relationships between built environmental features and false GPS alerts.
+
+# Introduction:
+
+Electronic monitoring is a form of remote surveillance that law enforcement uses as an alternative to incarceration: a person on house arrest may be tracked via a GPS ankle monitor, for example. Advocates of this form of tracking believe it improves the quality of life for the monitored individual. A person on house arrest may not be confined to their home: they can travel to work and school while under law enforcement supervision. 
+
+However, a major downside of GPS monitoring is ‘false alerts’: a weak GPS signal can distort the location of the monitored individual. This makes it appear that a person is breaking the terms of their home arrest, even though no violation occurred. Reports indicate that false alerts have led law enforcement to harass rule-following supervisees. Cook County, Illinois, has one of the largest electronic monitoring caseloads among local government units in the United States.
+
+In cities, a common source of GPS signal error is interference from the built environment. Tall buildings can block or reflect signals, preventing a strong, clear connection between the GPS satellite and the receiver. This project investigates the potential relationship between false alerts in Cook County’s electronic monitoring program and the built environment in Chicago. 
+
+**Is there a relationship between the rate of false alerts and building height? Is there a relationship between the rate of false alerts and building density?**
+
+# Data Overview:
+**Chicago Structures**: A section of the FEMA USA Structure Dataset that includes the height and area of all structures in Chicago.
+
+**False Alert**: Electronic monitoring data from the Cook County Sheriff's Office. Includes the total number of alerts, the number of false alerts, and the rate of false alerts of each Chicago zip code. 
+
+**Zip Code Shapefiles** Sourced from the City of Chicago's data portal. 
+
+# Data Management Workflow 
+I will run a correlation analysis between the rate of false alerts and average building height and building density, using zip codes as the unit of measurment. I will also map these variables to analyze a potential spatial relationship. My primary objective was to merge these datasets into a single dataset that organizes all data by zip code. I performed all of my work using the Pandas and Geopandas Python libraries. 
+
+The Chicago Structures data set includes 557,540 instances: each entry is an individual building in Chicago. 10,672 structures lacked zip codes, showing “null” values in that column. However, the structure data included latitude and longitude, which allowed me to spatially join the structures to the zip code shapefile. This filled the 10,672 null values with the correct zip code for those structures. I then organized this data by zip code, producing a dataset that included the average building height and area for each Chicago zip code. 
+
+I am defining building density as the total building area per zip code divided by the zip code's area. I used the zip codes shapefile to determine each zip code's area, enabling me to calculate the average building density per square meter for each zip code. 
+
+I then combined the structural and false alert data with the zip code shapefile using the zip code as a common key. This produced a geocoded dataset containing the average building height, density, and false alert rate for each Chicago ZIP code. 
+
+# Presenting Results
+
+## Rate of False Alerts and Building Height
