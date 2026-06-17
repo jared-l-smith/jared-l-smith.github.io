@@ -81,5 +81,3 @@ My analysis indicates a weak, positive relationship between the rate of false al
 
 However, further research is needed to understand why Cook County's Electronic Monitoring system has such a high rate of false alerts. Based on the data I received from the Sheriff’s Office, the minimum rate in a zip code was 90.9 percent. Even 60608, the zip code with the highest number of total alerts (n = 24,919), had a false alert rate of 98.37 percent. While there is something amiss with the Electronic Monitoring program, my research suggests that building height and density are unlikely to be the cause.
 
-# Intrested in seeing the full project?
-If you would like to see my full coding workflow, [click this link.](../_portfolio/falsealerts-code.html)
