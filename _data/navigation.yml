@@ -20,6 +20,6 @@ main:
   # - title: "CV"
   #   url: /cv-json/
 
- - title: "Teaching"
-     url: /teaching/   
+ # - title: "Teaching"
+  #   url: /teaching/   
     
