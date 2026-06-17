@@ -46,3 +46,41 @@ I then combined the structural and false alert data with the zip code shapefile 
 # Presenting Results
 
 ## Rate of False Alerts and Building Height
+
+BUILDING HEIGHT MAP HERE 
+
+This map shows the relationship between the rate of false alerts by zip and the average building height in Chicago. 
+
+There is a slight spatial pattern: false alert rates are high along the shore of Lake Michigan. These areas have a higher average building height, as many high-rise buildings line the lakefront. The zip codes with the highest average building height are in the downtown business district (the “Loop”), and zip codes farthest from the Loop have the lowest building height.
+
+BUILDING HEIGHT SCATTERPLOT HERE 
+
+The evidence suggests a weak association between the rate of false alerts and building height.
+
+The results of Spearman's correlation analysis between building height and the rate of false alerts yield a coefficient value of 0.2226, suggesting a weak, positive relationship between the two variables. 
+
+ The analysis provided a p-value of .1092. This p-value is not statistically significant, suggesting no association between building height and the rate of false alerts.
+
+## Rate of False Alerts and Building Density
+
+BUIDLING DENSITY MAP HERE 
+
+This map shows the relationship between the rate of false alerts by zip and the average building height in Chicago. 
+
+The zip codes with the highest building density are directly adjacent to the central downtown business district. The north and north-west sides of Chicago have higher building density than the south and south-west sides. There is a slight spatial pattern: the denser zip codes north of the loop also have higher false alert rates, but high false alert rates are not exclusive to those areas.
+
+BUILDING DENSITY MAP HERE
+
+The evidence suggests a weak association between the rate of false alerts and building density.
+
+The correlation analysis yields a Spearman’s rho of .1417, indicating a very weak, positive relationship between the variables. The  analysis also provided a p-value of .3115. This p-value is not statistically significant, suggesting no association between building density and the rate of false alerts.
+
+# Conclusion
+
+My analysis indicates a weak, positive relationship between the rate of false alerts and zip codes with a high average building height and high building density. 
+
+However, further research is needed to understand why Cook County's Electronic Monitoring system has such a high rate of false alerts. Based on the data I received from the Sheriff’s Office, the minimum rate in a zip code was 90.9 percent. Even 60608, the zip code with the highest number of total alerts (n = 24,919), had a false alert rate of 98.37 percent. While there is something amiss with the Electronic Monitoring program, my research suggests that building height and density are unlikely to be the cause.
+
+# Intrested in seeing the full project?
+If you would like to see my full coding workflow, INSERT LINK TO HTML PAGE HERE
+
