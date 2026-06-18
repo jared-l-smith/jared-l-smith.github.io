@@ -1,7 +1,7 @@
 ---
 title: "The Threat of Displacement: Eviction Filing Patterns in Chicago"
 collection: publications
-category: research
+category: manuscripts
 permalink: /publication/2026-11-06-threat-of-displacement
 excerpt: 'The capstone project for my Masters program. I study the spatial patterns of eviction filings in Chicago, and the household characteristics associated with a high risk of eviction.'
 date: 2026-11-06
