@@ -10,12 +10,16 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+====== 
+**M.A. in Sustainable Urban Development | DePaul University | June 2026**                         
+*Specializations:* Urban Planning Policy Research and Analysis; Data Visualization and Analysis
 
-Work experience
+**Graduate Certificate in Geographic Informational Systems | DePaul University | June 2026**       *Specializations:* Spatial Analysis for Community Development; Python for GIS Scripting
+
+**B.A. in Media, B.A. in Theatre and Drama | Indiana University - Bloomington | May 2018**
+*Specializations:* Project Management; Stakeholder Communication; Public Speaking & Presentation
+
+Research Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
