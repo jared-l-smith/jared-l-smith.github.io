@@ -13,15 +13,20 @@ As a GIS analyst and urban development researcher, I aim to use my skills in spa
 
 Technology 
 ======
-**GIS:** ArcGIS Pro | ArcPy | StoryMap 
+**GIS:** 
+* ArcGIS Pro | ArcPy | StoryMap 
 
-**Data Analysis:** Microsoft Excel for Statistical Analysis  |  Python (Pandas, GeoPandas, Statsmodels)
+**Data Analysis:** 
+* Microsoft Excel for Statistical Analysis | Python (Pandas, GeoPandas, Statsmodels)
 
-**Project Management:** Asana  |  Microsoft Teams  |  Zoom
+**Project Management:**
+* Asana | Microsoft Teams | Zoom
 
-**Business Adminstration:** Microsoft Office  |  Adobe Acrobat  |  Google Suite
+**Business Adminstration:**
+* Microsoft Office | Adobe Acrobat | Google Suite
 
-**Design:** Adobe Illustrator  |  SketchUp |  Canva
+**Design:**
+* Adobe Illustrator | SketchUp | Canva
 
 
 Getting started
