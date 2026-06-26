@@ -3,11 +3,11 @@ title: "Flags, Food & Faith"
 excerpt: "When working with the City of Chicago's Department of Cultural Affairs and Special Events, I partnered with photographer Jonathan Michael Castillo to create a StoryMap for his exhibit, Flags, Food, and Faith. Jonathan’s portraits featured Black and Latine small-business owners operating in under-invested neighborhoods, and my maps creatively communicated economic development data to a popular audience."
 collection: portfolio
 ---
-Date: January 2025
+**Date:** January 2025
 
-Tools Used: Arc GIS StoryMaps, Arc GIS Online, Microsoft Excel
+**Tools Used:** Arc GIS StoryMaps, Arc GIS Online, Microsoft Excel
 
-Skills Demonstrated:
+**Skills Demonstrated:**
 
 User-Friendly Map Design: Created three interactive maps that allowed users to personally explore economic development data across Chicago’s community areas.
 
@@ -15,9 +15,9 @@ Data Visualization: Designed six graphs that communicate disparity in business o
 
 Story‑Driven Communication: Combined analytical insights with visual storytelling, making findings accessible to non‑technical viewers.
 
-[Click Here to View the StoryMap.](https://arcg.is/PfzTi)
+[**Click Here to View the StoryMap.**](https://arcg.is/PfzTi)
 
-About this Project:
+**About this Project:**
 
 When working with the City of Chicago's Department of Cultural Affairs and Special Events, I partnered with photographer Jonathan Michael Castillo to create a StoryMap for his exhibit, Flags, Food, and Faith. Jonathan’s portraits featured Black and Latine small-business owners operating in under-invested neighborhoods, and my maps creatively communicated economic development data to a popular audience.
 
