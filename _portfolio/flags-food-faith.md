@@ -5,7 +5,7 @@ collection: portfolio
 ---
 **Date:** January 2025
 
-**Tools Used:** Arc GIS StoryMaps, Arc GIS Online, Microsoft Excel
+**Tools Used:** Arc GIS StoryMaps,  Arc GIS Online,  Microsoft Excel
 
 # Skills Demonstrated:
 
@@ -17,7 +17,7 @@ collection: portfolio
 
 
 
-# [Click Here to View the StoryMap.](https://arcg.is/PfzTi)
+## [Click Here to View the StoryMap.](https://arcg.is/PfzTi)
 
 
 
