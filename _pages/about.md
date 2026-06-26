@@ -16,7 +16,7 @@ Featured Projects
 ## *Flags, Food & Faith*
 *When working with the City of Chicago's Department of Cultural Affairs and Special Events, I partnered with photographer Jonathan Michael Castillo to create a StoryMap for his exhibit, Flags, Food, and Faith. Jonathan’s portraits featured Black and Latine small-business owners operating in under-invested neighborhoods, and my maps creatively communicated economic development data to a popular audience.*
 
-[Click here to view the full project.](_portfolio/flags-food-faith.md)
+[Click here to view the full project.](https://jared-l-smith.github.io/portfolio/flags-food-faith/)
 
 ## *False Alerts Related to GPS Electronic Monitoring in the Cook County Sheriff’s Office*                                                  
 *A spatial data science project examining the effectiveness of Cook County’s remote surveillance program. I performed extensive data management and integrated multiple data sources into a unified, geocoded dataset, laying the foundation for accurate spatial analysis and correlation testing.*
