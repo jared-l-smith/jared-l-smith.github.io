@@ -11,6 +11,18 @@ Urban planning shouldn't be something that happens to you: a truly democratic ci
 
 As a GIS analyst and urban development researcher, I aim to use my skills in spatial data analysis, policy research, project management, and stakeholder communication to help build equitable cities for all residents. My work focuses on affordable housing, community safety, and equitable economic development. If you need a partner in your mission to improve your city, please reach out: my experience and enthusiasm will be an asset to your work.
 
+Featured Projects
+======
+## *Flags, Food & Faith*
+*When working with the City of Chicago's Department of Cultural Affairs and Special Events, I partnered with photographer Jonathan Michael Castillo to create a StoryMap for his exhibit, Flags, Food, and Faith. Jonathan’s portraits featured Black and Latine small-business owners operating in under-invested neighborhoods, and my maps creatively communicated economic development data to a popular audience.*
+
+[Click here to view the full project.](_portfolio/flags-food-faith.md)
+
+## *False Alerts Related to GPS Electronic Monitoring in the Cook County Sheriff’s Office*                                                  
+*A spatial data science project examining the effectiveness of Cook County’s remote surveillance program. I performed extensive data management and integrated multiple data sources into a unified, geocoded dataset, laying the foundation for accurate spatial analysis and correlation testing.*
+
+[Click here to view the full project.](_portfolio/false-alerts.md) 
+
 Technology 
 ======
 **GIS:** 
@@ -37,11 +49,6 @@ Technology
 * SketchUp
 * Canva
 
-
-Featured Projects
-======
-This section coming soon! I just need to upload my various projects to this site, and format them appropriately. 
-
 Contact
 ------
-See the sidebar for my email and LinkedIn page! Those are the best ways to get in touch with me. 
+See the sidebar for links to my email and LinkedIn page: these are the best ways to get in touch with me. 
