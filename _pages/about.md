@@ -23,6 +23,7 @@ Featured Projects
 
 [Click here to view the full project.](https://jared-l-smith.github.io/portfolio/false-alerts/) 
 
+
 Technology 
 ======
 **GIS**: ArcGIS Pro, Arc GIS Online, Arc GIS StoryMaps
