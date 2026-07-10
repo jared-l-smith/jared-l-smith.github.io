@@ -28,7 +28,7 @@ The results revealed that high eviction filing rates are concentrated in Chicago
 
 **Research and Policy Analysis:** Analyzed the Cook County eviction process and current eviction studies to ensure my reserach is in conversation with existing eviction literature. 
 
-# Please note
+# View My Full Paper
 The following is an abbreviated version of my capstone research. To see the full paper, which includes citations, a literature review, and a more in-depth analysis of my results, **click on this link**. 
 
 
@@ -90,9 +90,7 @@ First, I explored the Chicago-wide eviction filing rate for each year from 2010 
 The results of the Local Moran’s I analysis show that eviction filing rates are not randomly distributed across Chicago in 2010, 2015, and 2019. Figures 2, 3, and 4 show clusters of census tracts that have statistically significantly high or low eviction filing rates. The light red areas are high-rate clusters, and the light green areas are low-rate clusters. The dark red areas are high-rate outlier tracts near low-rate clusters, and the dark green areas are low-rate outlier tracts near high-rate clusters.
 
 ![Figure 2](/images/Figure2.png)
-
 ![Figure 3](/images/Figure3.png)
-
 ![Figure 4](/images/Figure4.png)
 
 
@@ -115,9 +113,7 @@ However, the differences between the Outlier tracts in Table 3 show the opposite
 I used a Tweedie Regression model to investigate the relationships between the eviction filing rate, the median assessed property value, and the percentage of households with at least one child in a census tract. Median household income, the percentages of vacant and owner-occupied housing units, and the median rent-to-income ratio are my control variables. The dependent variable is log-transformed, so we interpret the results as a percent change in the dependent variable.
 
 ![Table 4](/images/Table4.png)
-
 ![Table 5](/images/Table5.png)
-
 ![Table 6](/images/Table6.png)
 
 Both independent variables had statistically significant p-values in each year of data tested. I must reject the null hypothesis that property value and households with children are unrelated to eviction filing rates, while holding income, rent, and housing variables constant.
