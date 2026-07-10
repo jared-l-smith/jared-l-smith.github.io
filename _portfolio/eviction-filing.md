@@ -29,7 +29,7 @@ The results revealed that high eviction filing rates are concentrated in Chicago
 **Research and Policy Analysis:** Analyzed the Cook County eviction process and current eviction studies to ensure my reserach is in conversation with existing eviction literature. 
 
 # View My Full Paper
-The following is an abbreviated version of my capstone research. To see the full paper, which includes citations, a literature review, and a more in-depth analysis of my results, **click on this link**. 
+The following is an abbreviated version of my capstone research. To see the full paper, which includes citations, a literature review, and a more in-depth analysis of my results, [click on this link.](/files/threat-of-displacement.pdf)
 
 
 # Introduction:
