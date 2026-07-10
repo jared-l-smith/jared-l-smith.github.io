@@ -5,7 +5,10 @@ collection: portfolio
 ---
 
 **Date:** June 2026
-**Tools Used:** ArcGIS Pro | Python (Pandas, GeoPandas) | Microsoft Excel for Data Analysis and Visualization Capstone Research Project: M.A. in Sustainable Urban Development, DePaul University
+
+**Tools Used:** ArcGIS Pro | Python (Pandas, GeoPandas) | Microsoft Excel for Data Analysis and Visualization 
+
+**Capstone Research Project:** M.A. in Sustainable Urban Development, DePaul University
 
 # Overview
 
