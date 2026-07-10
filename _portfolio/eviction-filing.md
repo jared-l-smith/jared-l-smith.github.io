@@ -85,48 +85,46 @@ The property value data was clipped to the Chicago boundaries to include only pa
 First, I explored the Chicago-wide eviction filing rate for each year from 2010 through 2019. Figure 1 shows the Chicago-wide eviction filing rate for each year from 2010 to 2019. The red markers are the average eviction rate, and the grey area represents a range of possible rates. Filing rates started at 4.3 in 2012, peaked at 4.65 in 2012, then decreased each year until reaching a low of 3.09 in 2019. Table 1 shows the measures of central tendency and variance of Chicago’s filing rate. Each year has a large standard deviation, indicating that filing rates among census tracts are farther from the city-wide rate. The median filing rate is lower than the average rate in each year of the dataset, suggesting that high-rate outlier tracts are skewing the city-wide average to the right: eviction filings look very different depending on where you live.
 
 
-
 ## Spatial Pattern of Eviction Filing
 
 The results of the Local Moran’s I analysis show that eviction filing rates are not randomly distributed across Chicago in 2010, 2015, and 2019. Figures 2, 3, and 4 show clusters of census tracts that have statistically significantly high or low eviction filing rates. The light red areas are high-rate clusters, and the light green areas are low-rate clusters. The dark red areas are high-rate outlier tracts near low-rate clusters, and the dark green areas are low-rate outlier tracts near high-rate clusters.
 
-**[Insert all three maps]**
+![Figure 2](/images/Figure2.png)
 
+![Figure 3](/images/Figure3.png)
+
+![Figure 4](/images/Figure4.png)
 
 
 High filing rates are clustered almost exclusively on the South and West sides of the city and become increasingly concentrated there over time. The majority of tracts in the low-rate cluster are on the North Side of Chicago, but some are on the West and South Sides as well. Across all three years, the South-side tracts in the low-rate cluster are located in the Armour Square, Bridgeport, McKinley Park, and Archer Heights community areas. The West-side low-rate tracts are found in the West Town, South Lawndale, Lower West Side, and Near West Side community areas. Low-rate tracts in the Central part of the city are all located in the Near North Side community area. In 2010, there was a small high-rate cluster on the Northwest Side of the city. There are two tracts in this cluster, located in the Hermosa and Belmont-Cragin community areas.
 
 
-
 ## Demographic, Housing, & Income Differences Between Clusters and Outliers
 
-**[Table 2]**
-
+![Table 2](/images/Table2.png)
 
 Table 2 shows the income, housing, and demographic differences between the two cluster types, listing the median value of each sample. The saying “There’s only one map of Chicago” rings true here: the historic, racist disinvestment of the South and West sides is present in these results. These findings indicate that tracts in the high-rate cluster face a greater economic disadvantage than their low-rate counterparts: they have lower median household income, lower median owner-occupancy rate, higher median unemployment rate, and higher median rent-to-income ratio. 
 
 Rents may be cheaper in the high-rate cluster, but not by much: the largest difference in median rent is $370. The median property value in the high-rate cluster is less than half that in the low-rate cluster, and the median rent-to-income ratio is at least 10 points higher. In the high-rate clusters, the median percentage of the population that is Black never falls below 94%. In the low-rate cluster, the median percentage never reaches 3.5%. Across all three years, the median percentage of households with children is higher in the high-rate cluster than in the low-rate tracts. 
 
-
-
-**[Table 3]**
+![Table 3](/images/Table3.png)
 
 However, the differences between the Outlier tracts in Table 3 show the opposite: the low-rate outliers appear to be at a greater economic disadvantage than the high-rate ones. Low-rate outliers have a higher median rent burden, higher unemployment, lower property values, and lower college attainment than high-rate outliers. The low-rate tracts have larger Black populations and more households with children, excluding 2019.  More research is needed to understand why these tracts have lower filing rates despite greater economic disadvantage. Investigating the housing options in high-rate outliers may prove interesting: these tracts may have litigious landlords.
 
-
-
 ## Tweedie Regression Results
-
-**[Tables 4, 5, and 6]**
-
 I used a Tweedie Regression model to investigate the relationships between the eviction filing rate, the median assessed property value, and the percentage of households with at least one child in a census tract. Median household income, the percentages of vacant and owner-occupied housing units, and the median rent-to-income ratio are my control variables. The dependent variable is log-transformed, so we interpret the results as a percent change in the dependent variable.
 
- Both independent variables had statistically significant p-values in each year of data tested. I must reject the null hypothesis that property value and households with children are unrelated to eviction filing rates, while holding income, rent, and housing variables constant.
+![Table 4](/images/Table4.png)
+
+![Table 5](/images/Table5.png)
+
+![Table 6](/images/Table6.png)
+
+Both independent variables had statistically significant p-values in each year of data tested. I must reject the null hypothesis that property value and households with children are unrelated to eviction filing rates, while holding income, rent, and housing variables constant.
 
 Property values are negatively associated with a tract’s eviction filing rate. For every $1,000 increase in the median assessed property value, the eviction filing rate drops by 3.7 percent, 2.8 percent, and 3 percent. Areas with higher property values are wealthier, and tenants who can afford to live in wealthier areas are less likely to miss rent payments.
 
 The percentage of households with children is positively associated with eviction filing rates. For every 1% increase in the number of households with at least one child, eviction filing rates increase by 62%, 162%, and 92%, respectively. This increase seems incredibly large, but the variable is the percent of households with at least one child. In a tract with 1000 households, 10 childless homes would have to have a baby to create a 1 percent increase. This is a major economic and demographic change for the census tract, which explains the massive increase in the filing rate.
-
 
 # Conclusion
 
