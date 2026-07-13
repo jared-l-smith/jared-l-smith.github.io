@@ -2,7 +2,7 @@
 title: "No Vacancy: SRO Hotels and Gentrification in Uptown, Chicago"
 collection: publications
 category: research
-permalink: /publication/2026-03-04-false-alerts-electronic-monitoring
+permalink: /publication/2024-03-16-no-vacancy
 excerpt: 'The number of people under electronic monitoring has grown due to the increased use of GPS technology. Meanwhile, a rise in false alerts from monitoring devices has concerned many as it has strained resources and disrupted lives.'
 date: 2026-03-04
 venue: 'Criminal Justice Review'
