@@ -31,17 +31,15 @@ Featured Projects
 
 Technology 
 ======
-**GIS**: ArcGIS Pro, Arc GIS Online, Arc GIS StoryMaps
+**GIS**: ArcGIS Pro, ArcPy, Arc GIS Online, StoryMaps
 
-**Programming**: Python, ArcPy
-
-**Data Analysis:** Pandas, GeoPandas, Microsoft Excel for Statistical Analysis, R 
+**Data Analysis:** Python (Pandas, GeoPandas, Statsmodels), Microsoft Excel for Statistical Analysis 
 
 **Project Management:** Asana, Microsoft Teams 
 
 **Graphic Design:** Adobe Illustrator, SketchUp, Canva
 
-**Communication:** Microsoft Word, Microsoft PowerPoint, Zoom
+**Business Administrationn:** Microsoft Word, Microsoft PowerPoint, Zoom
 
 # Contact
 See the sidebar for links to my email and LinkedIn page: these are the best ways to get in touch with me. 
