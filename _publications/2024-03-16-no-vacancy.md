@@ -3,7 +3,7 @@ title: "No Vacancy: SRO Hotels and Gentrification in Uptown, Chicago"
 collection: publications
 category: research
 permalink: /publication/2024-03-16-no-vacancy
-excerpt: 'A research project on Single-Room Occupancy housing in Chicago’s Uptown neighborhood.'
+excerpt: ' in Chicago’s Uptown neighborhood.'
 date: 2024-03-16
 venue: 'Sustainable Urban Development Program, DePaul University'
 paperurl: 'https://jared-l-smith.github.io/files/Uptown-sro-analysis.pdf'
