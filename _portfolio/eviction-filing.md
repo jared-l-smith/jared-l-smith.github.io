@@ -78,7 +78,7 @@ The property value data was clipped to the Chicago boundaries to include only pa
 
 ## City-wide Eviction Filing Rates
 
-![Figure 1](/images/Figure1.png)
+![Figure 1](/images/Figure1.png "Figure 1")
 
 ![Table 1](/images/Table1.png)
 
