@@ -6,7 +6,7 @@ collection: portfolio
 
 **Date:** June 2026
 
-**Tools Used:** ArcGIS Pro | Python (Pandas, GeoPandas) | Microsoft Excel for Data Analysis and Visualization 
+**Tools Used:** ArcGIS Pro, Python (Pandas, GeoPandas), Microsoft Excel for Data Analysis and Visualization 
 
 **Capstone Research Project:** M.A. in Sustainable Urban Development, DePaul University
 
@@ -91,7 +91,7 @@ The results of the Local Moran’s I analysis show that eviction filing rates ar
 
 ![Figure 2](/images/Figure2.png)
 ![Figure 3](/images/Figure3.png)
-
+![Figure 4](/images/Figure4.png)
 
 
 High filing rates are clustered almost exclusively on the South and West sides of the city and become increasingly concentrated there over time. The majority of tracts in the low-rate cluster are on the North Side of Chicago, but some are on the West and South Sides as well. Across all three years, the South-side tracts in the low-rate cluster are located in the Armour Square, Bridgeport, McKinley Park, and Archer Heights community areas. The West-side low-rate tracts are found in the West Town, South Lawndale, Lower West Side, and Near West Side community areas. Low-rate tracts in the Central part of the city are all located in the Near North Side community area. In 2010, there was a small high-rate cluster on the Northwest Side of the city. There are two tracts in this cluster, located in the Hermosa and Belmont-Cragin community areas.
