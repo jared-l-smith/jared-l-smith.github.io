@@ -1,5 +1,5 @@
 ---
-title: "False Alerts Related to GPS Electronic Monitoring in Illinois Cook County Sheriff’s Office"
+title: "No Vacancy: SRO Hotels and Gentrification in Uptown, Chicago"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-03-04-false-alerts-electronic-monitoring
