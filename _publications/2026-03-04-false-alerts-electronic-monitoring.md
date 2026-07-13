@@ -3,7 +3,7 @@ title: "False Alerts Related to GPS Electronic Monitoring in Illinois Cook Count
 collection: publications
 category: manuscripts
 permalink: /publication/2026-03-04-false-alerts-electronic-monitoring
-excerpt: 'The number of people under electronic monitoring has grown due to the increased use of GPS technology. Meanwhile, a rise in false alerts from monitoring devices has concerned many as it has strained resources and disrupted lives.'
+excerpt: 'The number of people under electronic monitoring has grown due to the increased use of GPS technology. Meanwhile, a rise in false alerts from monitoring devices has concerned many as it has strained resources and disrupted lives. Analyzing Illinois Cook County Sheriff’s Office electronic monitoring data, this paper examined whether false alerts increased following the transition to GPS, how false alerts from GPS monitoring were spatially distributed, and to what extent false alerts were associated with GPS drift (position errors).'
 date: 2026-03-04
 venue: 'Criminal Justice Review'
 paperurl: 'https://jared-l-smith.github.io/files/false-alerts-electronic-monitoring.pdf'
