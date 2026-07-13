@@ -14,7 +14,7 @@ As a GIS analyst and urban development researcher, I aim to use my skills in spa
 Featured Projects
 ======
 ## The Threat of Displacement: Eviction Filing Patterns in Chicago
-*For my Master's capstone research, I explored the spatial patterns of eviction filings in Chicago and the property and household characteristics associated with higher eviction filing rates.For my Master's capstone research, I explored the spatial patterns of eviction filings in Chicago and the property and household characteristics associated with higher eviction filing rates. This project displays my ability to independently conduct social science research: all aspects of the project, including the literature review, dataset integration, spatial autocorrelation testing, regression analysis, and final presentation, were completed within ten weeks.*
+*For my Master's capstone research, I explored the spatial patterns of eviction filings in Chicago and the property and household characteristics associated with higher eviction filing rates. This project displays my ability to independently conduct social science research: all aspects of the project, including the literature review, dataset integration, spatial autocorrelation testing, regression analysis, and final presentation, were completed within ten weeks.*
 
 [Click here to view the full project.](https://jared-l-smith.github.io/portfolio/eviction-filing/)
 
