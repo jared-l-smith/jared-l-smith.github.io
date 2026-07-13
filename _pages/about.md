@@ -39,7 +39,7 @@ Technology
 
 **Graphic Design:** Adobe Illustrator, SketchUp, Canva
 
-**Business Administrationn:** Microsoft Word, Microsoft PowerPoint, Zoom
+**Business Administration:** Microsoft Word, Microsoft PowerPoint, Zoom
 
 # Contact
 See the sidebar for links to my email (jaredlavernesmith@gmail.com) and LinkedIn page: these are the best ways to get in touch with me. 
