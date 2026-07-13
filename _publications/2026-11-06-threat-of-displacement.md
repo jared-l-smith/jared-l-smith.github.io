@@ -8,7 +8,7 @@ date: 2026-06-11
 venue: 'Capstone Project, M.A. in Sustainable Urban Development, DePaul University'
 slidesurl: 'https://jared-l-smith.github.io/files/displacement-slides.pdf'
 paperurl: 'https://jared-l-smith.github.io/files/threat-of-displacement.pdf'
-citation: 'Smith, J. (2026). The Threat of Displacement:Eviction Filing Patterns in Chicago; 2010, 2015, 2019.'
+citation: 'Smith, J. (2026). The Threat of Displacement:Eviction Filing Patterns in Chicago: 2010, 2015, 2019. DePaul University. https://jared-l-smith.github.io/files/threat-of-displacement.pdf'
 ---
 
 I explored the spatial patterns of eviction filings in Chicago and the property and household characteristics associated with higher eviction filing rates. To achieve this, I combined eviction, demographic, housing, and property value data to construct three census tract-level datasets for 2010, 2015, and 2019. 
