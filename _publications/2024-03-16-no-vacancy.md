@@ -4,7 +4,7 @@ collection: publications
 category: research
 permalink: /publication/2024-03-16-no-vacancy
 excerpt: 'A research project on Single-Room Occupancy housing in Chicago’s Uptown neighborhood. I investigate the history of SRO housing in Uptown, analyze the area's wealth and demographic data, and present policy solutions to ensure transitional housing remains under the control of local affordable housing developers and advocacy organizations.'
-date: 2024-03-16
+date: 
 venue: 
 paperurl: 'https://jared-l-smith.github.io/files/false-alerts-electronic-monitoring.pdf'
 citation: 'Hwang, S., Maniar, P. C., Smith, J., & Nivens, K. (2026). False Alerts Related to GPS Electronic Monitoring in Illinois Cook County Sheriff’s Office. Criminal Justice Review, doi:10.1177/07340168261428124.'
