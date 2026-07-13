@@ -1,4 +1,4 @@
----
+
 title: "No Vacancy: SRO Hotels and Gentrification in Uptown, Chicago"
 collection: publications
 category: research
