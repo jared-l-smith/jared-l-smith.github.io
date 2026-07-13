@@ -1,12 +1,13 @@
 ---
-title: "No Vacancy SRO Hotels and Gentrification in Uptown, Chicago"
+title: "False Alerts Related to GPS Electronic Monitoring in Illinois Cook County Sheriff’s Office"
 collection: publications
-category: research
-permalink: /publication/2024-03-16-no-vacancy
-excerpt: 'A research project on Single-Room Occupancy housing in Chicago’s Uptown neighborhood. I investigate the history of SRO housing in Uptown, analyze the area's wealth and demographic data, and present policy solutions to ensure transitional housing remains under the control of local affordable housing developers and advocacy organizations.'
-date: 2024-03-16
-venue: 'Sustainable Urban Development Program, DePaul University'
-paperurl: 'https://jared-l-smith.github.io/files/Uptown-sro-analysis.pdf'
+category: manuscripts
+permalink: /publication/2026-03-04-false-alerts-electronic-monitoring
+excerpt: 'The number of people under electronic monitoring has grown due to the increased use of GPS technology. Meanwhile, a rise in false alerts from monitoring devices has concerned many as it has strained resources and disrupted lives.'
+date: 2026-03-04
+venue: 'Criminal Justice Review'
+paperurl: 'https://jared-l-smith.github.io/files/false-alerts-electronic-monitoring.pdf'
+citation: 'Hwang, S., Maniar, P. C., Smith, J., & Nivens, K. (2026). False Alerts Related to GPS Electronic Monitoring in Illinois Cook County Sheriff’s Office. Criminal Justice Review, doi:10.1177/07340168261428124.'
 citation: 'Smith, J. (2024). No Vacancy: SRO Hotels and Gentrification in Uptown, Chicago. DePaul University. https://jared-l-smith.github.io/files/Uptown-sro-analysis.pdf '
 ---
 **Abstract:** 
