@@ -3,7 +3,7 @@ title: "No Vacancy: SRO Hotels and Gentrification in Uptown, Chicago"
 collection: publications
 category: research
 permalink: /publication/2024-03-16-no-vacancy
-excerpt: 'The number of people under electronic monitoring has grown due to the increased use of GPS technology. Meanwhile, a rise in false alerts from monitoring devices has concerned many as it has strained resources and disrupted lives.'
+excerpt: 'A research project on Single-Room Occupancy housing in Chicago’s Uptown neighborhood. I investigate the history of SRO housing in Uptown, analyze the area's wealth and demographic data, and present policy solutions to ensure transitional housing remains under the control of local affordable housing developers and advocacy organizations.'
 date: 2024-03-16
 venue: 'Sustainable Urban Development Program, DePaul University'
 paperurl: 'https://jared-l-smith.github.io/files/Uptown-sro-analysis.pdf'
