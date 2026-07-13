@@ -1,5 +1,5 @@
 ---
-title:
+title: "The Threat of Displacement: Eviction Filing Patterns in Chicago"
 collection: publications
 category: research
 permalink: /publication/2024-03-16-no-vacancy
