@@ -80,7 +80,7 @@ The property value data was clipped to the Chicago boundaries to include only pa
 
 ![Figure 1](/images/Figure1.png "Figure 1")
 
-![Table 1](/images/Table1.png)
+![Table 1](/images/Table1.jpeg.jpg)
 
 First, I explored the Chicago-wide eviction filing rate for each year from 2010 through 2019. Figure 1 shows the Chicago-wide eviction filing rate for each year from 2010 to 2019. The red markers are the average eviction rate, and the grey area represents a range of possible rates. Filing rates started at 4.3 in 2012, peaked at 4.65 in 2012, then decreased each year until reaching a low of 3.09 in 2019. Table 1 shows the measures of central tendency and variance of Chicago’s filing rate. Each year has a large standard deviation, indicating that filing rates among census tracts are farther from the city-wide rate. The median filing rate is lower than the average rate in each year of the dataset, suggesting that high-rate outlier tracts are skewing the city-wide average to the right: eviction filings look very different depending on where you live.
 
